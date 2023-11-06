@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh_panchal20221
-- 👀 I’m interested in Java ,Data strutures and analysis
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java, and Data Science Enthuciast and working on Machine Learning and Deep learning Projects
+- 🌱 I’m currently learning Deep learning
 - 📫 How to reach me - harsh.pan96@gmail.com
 
 <!---
